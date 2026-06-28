@@ -31,3 +31,13 @@
 
 ---
 <!-- Refresh profile README -->
+<h2 align="center">🧠 My LeetCode Progress</h2>
+
+<p align="center">
+  <a href="https://leetcode.com/u/Mourya59/">
+    <img
+      src="https://leetcard.jacoblin.cool/Mourya59?theme=dark&font=Baloo%202&ext=heatmap"
+      alt="LeetCode Statistics"
+    />
+  </a>
+</p>
